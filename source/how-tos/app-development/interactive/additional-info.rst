@@ -26,6 +26,8 @@ job_id
   The job id from the scheduler
 created_at
   The time the session was created
+modified_at
+  The time the session was modified
 
 
 .. _bc_completed_html_md_erb:
